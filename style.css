@@ -78,6 +78,10 @@ p{
     text-align: center;
 }
 
+i{
+    font-size: 0.8em;
+}
+
 .image-container{
     display: flex;
     justify-content: space-evenly;
